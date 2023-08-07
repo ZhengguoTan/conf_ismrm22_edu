@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="figures.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1526"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1524"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1101"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1119"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1107"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1119-1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-6-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1119-1-0"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1119-3"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-74.203772"
+     inkscape:cy="-1017.4184"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid826" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan.png"
+       y="-86.92083"
+       x="1.3229166"
+       id="image823"
+       xlink:href="file:///home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan.png"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="67.73333"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan_TV_00001.png"
+       y="-86.92083"
+       x="71.4375"
+       id="image836"
+       xlink:href="file:///home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan_TV_00001.png"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="67.73333"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan_TV_00002.png"
+       y="-86.92083"
+       x="140.22917"
+       id="image847"
+       xlink:href="file:///home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan_TV_00002.png"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="67.73333"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="52.538689"
+       y="86.060936"
+       id="text871"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan869"
+         x="52.538689"
+         y="86.060936"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">matrix</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="111.29431"
+       y="84.939217"
+       id="text871-3"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan869-6"
+         x="111.29431"
+         y="84.939217"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">TV along x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="180.35057"
+       y="84.939217"
+       id="text871-3-7"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan869-6-5"
+         x="180.35057"
+         y="84.939217"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">TV along y</tspan></text>
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan.png"
+       y="-225.82709"
+       x="22.489584"
+       id="image823-3-2"
+       xlink:href="file:///home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan.png"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="67.73333"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan.png"
+       y="-228.47292"
+       x="18.520834"
+       id="image823-3-2-9"
+       xlink:href="file:///home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan.png"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="67.73333"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan.png"
+       y="-231.11874"
+       x="14.552083"
+       id="image823-3-2-1"
+       xlink:href="file:///home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan.png"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="67.73333"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan.png"
+       y="-233.76459"
+       x="10.583333"
+       id="image823-3-2-2"
+       xlink:href="file:///home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan.png"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="67.73333"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan.png"
+       y="-236.41042"
+       x="6.6145835"
+       id="image823-3-2-7"
+       xlink:href="file:///home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan.png"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="67.73333"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan.png"
+       y="-239.05624"
+       x="2.6458333"
+       id="image823-3"
+       xlink:href="file:///home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shepp_logan.png"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="67.73333"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.861607"
+       y="238.20462"
+       id="text871-5"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan869-3"
+         x="53.861607"
+         y="238.20462"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">matrix</tspan></text>
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shift.png"
+       y="-225.82709"
+       x="125.67709"
+       id="image885-0"
+       xlink:href="file:///home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shift.png"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="67.73333"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shift.png"
+       y="-228.47292"
+       x="121.70834"
+       id="image885-9"
+       xlink:href="file:///home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shift.png"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="67.73333"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shift.png"
+       y="-231.11874"
+       x="117.73959"
+       id="image885-3"
+       xlink:href="file:///home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shift.png"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="67.73333"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shift.png"
+       y="-233.76459"
+       x="113.77084"
+       id="image885-6"
+       xlink:href="file:///home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shift.png"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="67.73333"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shift.png"
+       y="-236.41042"
+       x="109.80209"
+       id="image885-06"
+       xlink:href="file:///home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shift.png"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="67.73333"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shift.png"
+       y="-239.05624"
+       x="105.83334"
+       id="image885"
+       xlink:href="file:///home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/scripts/shift.png"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="67.73333"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="107.45523"
+       y="237.22311"
+       id="text871-5-5"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan869-3-6"
+         x="107.45523"
+         y="237.22311"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">random shift &gt; ArrayToBlocks</tspan></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#ff0000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect845"
+       width="3.7884166"
+       height="3.7884166"
+       x="105.93334"
+       y="171.42291"
+       ry="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 105.83333,171.32292 19.84375,-13.22917"
+       id="path1071"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#ff0000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:0.4,0.4;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect845-2"
+       width="3.7884166"
+       height="3.7884166"
+       x="125.77709"
+       y="158.19376"
+       ry="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 109.80208,171.32292 19.84375,-13.22917"
+       id="path1090"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.4,0.4;stroke-dashoffset:0"
+       d="M 109.80208,175.29167 129.64583,162.0625"
+       id="path1092"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.4,0.4;stroke-dashoffset:0"
+       d="M 105.83333,175.29167 125.67708,162.0625"
+       id="path1094"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow2Lend)"
+       d="M 92.604166,196.45833 H 103.1875"
+       id="path1096"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1366"
+       width="16.86718"
+       height="22.489573"
+       x="215.89998"
+       y="185.08125"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-6)"
+       d="m 195.79165,196.45833 h 10.58333"
+       id="path1096-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="216.26866"
+       y="211.55034"
+       id="text1391"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1389"
+         x="216.26866"
+         y="211.55034"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">echoes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-207.16286"
+       y="214.04463"
+       id="text1391-7"
+       transform="rotate(-90)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1389-9"
+         x="-207.16286"
+         y="214.04463"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">block pixels</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-6-2)"
+       d="m 224.89583,220.27084 v 10.58333"
+       id="path1096-8-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g1520"
+       transform="translate(1.5875,-1.5875)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         id="text871-5-5-5"
+         y="240.10507"
+         x="218.41281"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           y="240.10507"
+           x="218.41281"
+           id="tspan869-3-6-9"
+           sodipodi:role="line">SVD</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         id="text871-5-5-5-2"
+         y="246.62517"
+         x="209.3007"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           y="246.62517"
+           x="209.3007"
+           id="tspan869-3-6-9-2"
+           sodipodi:role="line">Thresholding</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="96.588257"
+       y="255.88554"
+       id="text871-5-5-5-2-8"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan869-3-6-9-2-9"
+         x="96.588257"
+         y="255.88554"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke-width:0.26458332">adjoint of random shift &lt; adjoint of ArrayToBlocks </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1526)"
+       d="m 224.89583,249.375 v 5.29166 H 206.375"
+       id="path1522"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-7)"
+       d="M 93.047171,254.66667 H 82.463834"
+       id="path1096-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="31.576353"
+       y="255.94342"
+       id="text871-5-5-5-2-8-1"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan869-3-6-9-2-9-2"
+         x="31.576353"
+         y="255.94342"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke-width:0.26458332">Updated matrix</tspan></text>
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/vFA-EPTI_kdat.png"
+       xlink:href="vFA-EPTI_kdat.png"
+       y="302.29166"
+       x="5.2916665"
+       id="image893"
+       preserveAspectRatio="none"
+       height="158.75"
+       width="94.569649"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/vFA-EPTI_Image.png"
+       xlink:href="vFA-EPTI_Image.png"
+       y="302.29166"
+       x="100.54166"
+       id="image904"
+       preserveAspectRatio="none"
+       height="158.75"
+       width="94.569649"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/vFA-EPTI_SumEchoImage.png"
+       xlink:href="vFA-EPTI_SumEchoImage.png"
+       y="302.29166"
+       x="195.79167"
+       id="image915"
+       preserveAspectRatio="none"
+       height="158.75"
+       width="94.569649"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/R_sub_00001.png"
+       xlink:href="R_sub_00001.png"
+       transform="scale(1,-1)"
+       width="30.691668"
+       height="38.099998"
+       preserveAspectRatio="none"
+       id="image896"
+       x="7.9375"
+       y="-517.66248" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/R_sub_00002.png"
+       xlink:href="R_sub_00002.png"
+       transform="scale(1,-1)"
+       width="30.691668"
+       height="38.099998"
+       preserveAspectRatio="none"
+       id="image907"
+       x="39.6875"
+       y="-517.66248" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/R_sub_00003.png"
+       xlink:href="R_sub_00003.png"
+       transform="scale(1,-1)"
+       width="30.691668"
+       height="38.099998"
+       preserveAspectRatio="none"
+       id="image918"
+       x="71.4375"
+       y="-517.66248" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/R_sub_00004.png"
+       xlink:href="R_sub_00004.png"
+       transform="scale(1,-1)"
+       width="30.691668"
+       height="38.099998"
+       preserveAspectRatio="none"
+       id="image929"
+       x="103.1875"
+       y="-517.66248" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/R_sub_00005.png"
+       xlink:href="R_sub_00005.png"
+       transform="scale(1,-1)"
+       width="30.691668"
+       height="38.099998"
+       preserveAspectRatio="none"
+       id="image940"
+       x="134.9375"
+       y="-517.66248" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/R_sub_00006.png"
+       xlink:href="R_sub_00006.png"
+       transform="scale(1,-1)"
+       width="30.691668"
+       height="38.099998"
+       preserveAspectRatio="none"
+       id="image951"
+       x="166.6875"
+       y="-517.66248" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/R_sub_matlab_00001.png"
+       xlink:href="R_sub_matlab_00001.png"
+       transform="scale(1,-1)"
+       width="30.691668"
+       height="38.099998"
+       preserveAspectRatio="none"
+       id="image962"
+       x="7.9375"
+       y="-558.67291" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/R_sub_matlab_00002.png"
+       xlink:href="R_sub_matlab_00002.png"
+       transform="scale(1,-1)"
+       width="30.691668"
+       height="38.099998"
+       preserveAspectRatio="none"
+       id="image973"
+       x="39.6875"
+       y="-558.67291" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/R_sub_matlab_00003.png"
+       xlink:href="R_sub_matlab_00003.png"
+       transform="scale(1,-1)"
+       width="30.691668"
+       height="38.099998"
+       preserveAspectRatio="none"
+       id="image984"
+       x="71.4375"
+       y="-558.67291" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/R_sub_matlab_00004.png"
+       xlink:href="R_sub_matlab_00004.png"
+       transform="scale(1,-1)"
+       width="30.691668"
+       height="38.099998"
+       preserveAspectRatio="none"
+       id="image995"
+       x="103.1875"
+       y="-558.67291" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/R_sub_matlab_00005.png"
+       xlink:href="R_sub_matlab_00005.png"
+       transform="scale(1,-1)"
+       width="30.691668"
+       height="38.099998"
+       preserveAspectRatio="none"
+       id="image1006"
+       x="134.9375"
+       y="-558.67291" />
+    <image
+       sodipodi:absref="/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/R_sub_matlab_00006.png"
+       xlink:href="R_sub_matlab_00006.png"
+       transform="scale(1,-1)"
+       width="30.691668"
+       height="38.099998"
+       preserveAspectRatio="none"
+       id="image1017"
+       x="166.6875"
+       y="-558.67291" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-506.08694"
+       y="4.3178978"
+       id="text1022"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1020"
+         x="-506.08694"
+         y="4.3178978"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">SigPy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.37098026px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25927451"
+       x="-552.9715"
+       y="4.341732"
+       id="text1022-3"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1020-6"
+         x="-552.9715"
+         y="4.341732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.53118992px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.25927451">Dong et al.</tspan></text>
+  </g>
+</svg>

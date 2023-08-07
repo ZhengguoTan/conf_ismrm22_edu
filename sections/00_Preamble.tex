@@ -1,0 +1,114 @@
+\documentclass[final, 12pt]{beamer}
+% ========================================================================================
+% Theme: inner, outer, font and colors
+% ----------------------------------------------------------------------------------------
+\usepackage[institute=tech]{styles/beamerthemefau-16-9}
+% ----------------------------------------------------------------------------------------
+% Input and output encoding
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+% ----------------------------------------------------------------------------------------
+% Language settings
+\usepackage[english]{babel}
+% ========================================================================================
+% Fonts
+% - Helvet is loaded by styles/beamerfonts
+% - We use serif for math environements
+% - isomath is used for upGreek letters
+% ----------------------------------------------------------------------------------------
+\usepackage{isomath}
+\usefonttheme[onlymath]{serif}
+\usepackage{exscale}
+\setbeamercolor{alerted text}{fg=faunat}
+% ----------------------------------------------------------------------------------------
+% custom commands for symbols
+\usepackage{styles/symbols}
+% ========================================================================================
+% Setup for Titlepage
+% ----------------------------------------------------------------------------------------
+\title[Practical Reconstruction Implementation]{Practical Reconstruction Implementation}
+\author[Z.~Tan]{Zhengguo Tan}
+\institute[AIBE]{Department Artificial Intelligence in Biomedical Engineering, 
+Friedrich-Alexander-Universit\"at Erlangen-N\"urnberg}
+\date{May 08, 2022}
+% ========================================================================================
+% Bibliography
+% ----------------------------------------------------------------------------------------
+%\usepackage{csquotes}
+%\usepackage[style=alphabetic, %alternatively: numeric, numeric-comp, and other from biblatex
+%			defernumbers=true,
+%			useprefix=true,%
+%			giveninits=true,%
+%			hyperref=true,%
+%			autocite=inline,%
+%			maxcitenames=5,%
+%			maxbibnames=20,%
+%			uniquename=init,%
+%			sortcites=true,% sort citations when multiple entries are passed to one cite command
+%			doi=true,%
+%			isbn=false,%
+%			url=false,%
+%			eprint=false,%
+%			backend=biber%
+%		   ]{biblatex}
+%\addbibresource{ref.bib}
+%\setbeamertemplate{bibliography item}[text]
+% ========================================================================================
+% Hyperref and setup
+% ----------------------------------------------------------------------------------------
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks = false,
+	final=true, 
+	plainpages=false,
+	pdfstartview=FitV,
+	pdftoolbar=true,
+	pdfmenubar=true,
+	pdfencoding=auto,
+	psdextra,
+	bookmarksopen=true,
+	bookmarksnumbered=true,
+	breaklinks=true,
+	linktocpage=true,
+	urlcolor=faunat,
+	citecolor=faublue,
+	linkcolor=faunat
+}
+% ========================================================================================
+% Additional packages
+% ----------------------------------------------------------------------------------------
+\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage{graphicx}
+
+\graphicspath{ {/home/ztan/Conferences/2022_ISMRM_London/presentations/weekend_edu/figures/} }
+
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+
+\usepackage{listings,lstautogobble}
+\lstset{language=Python,
+%	backgroundcolor=\color{white},   % choose the background color
+	basicstyle=\large\ttfamily,      % size of fonts used for the code
+	breaklines=true,                 % automatic line breaking only at whitespace
+	captionpos=b,                    % sets the caption-position to bottom
+	commentstyle=\color{mygreen},    % comment style
+	escapeinside={\%*}{*)},          % if you want to add LaTeX within your code
+	keywordstyle=\color{blue},       % keyword style
+	stringstyle=\color{mymauve},     % string literal style
+%	basicstyle=\small\ttfamily,
+%	commentstyle=\ttfamily\color{gray},
+%	showstringspaces=false,
+%	autogobble=true
+}
+
+\usepackage{pdfpages}
+\addtobeamertemplate{footnote}{\hskip -2em}{}
+
+% ========================================================================================
+% Various custom commands
+% ----------------------------------------------------------------------------------------
+\pdfsuppresswarningpagegroup=1 %solves the PDF inclusion problem
+% Change color for cite locally
+\newcommand{\colorcite}[3]{{\hypersetup{citecolor=#1}{\cite[#2]{#3}}}}

@@ -1,0 +1,29 @@
+% ----------------------------------------------------------------------------------------
+% The preamble
+\input{sections/00_Preamble.tex}
+% ----------------------------------------------------------------------------------------
+\begin{document}
+% ----------------------------------------------------------------------------------------
+% Titlepage
+% - lplain erweiter die normale plain Umgebung sodass die linke sidebar tatsaechlich 
+% entfernt wird
+\begin{lplainframe}
+\titlepage
+\end{lplainframe}
+
+{
+\setbeamercolor{background canvas}{bg=}
+\includepdf{declaration.pdf}
+}
+
+% ----------------------------------------------------------------------------------------
+% Outline
+\begin{frame}{Outline}
+\tableofcontents
+\end{frame}
+% ----------------------------------------------------------------------------------------
+% Deprecated section, only a resource for content
+\input{sections/01_sigpy.tex}
+\input{sections/02_examples.tex}
+\input{sections/03_summary.tex}
+\end{document}

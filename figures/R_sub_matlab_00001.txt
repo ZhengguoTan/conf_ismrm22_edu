@@ -1,0 +1,28 @@
+--Figure title--
+'R_sub_matlab'
+
+--Image dimensions--
+144  116
+
+--Selected image--
+:,:,1
+
+--Image stats--
+dim  = 144  116
+min  = 0.003824
+mean = 7.104
+max  = 30.6
+L2   = 1248
+
+--Image windowing--
+center/width = [ 15.2955 30.5866 ]
+colormap     = Gray(256)
+
+--InfoText--
+
+--Export date--
+date : 30.4.2022
+time : 12:2:8
+
+--arrayShow version--
+0.35

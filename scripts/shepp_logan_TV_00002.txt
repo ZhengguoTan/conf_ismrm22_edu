@@ -1,0 +1,28 @@
+--Figure title--
+'shepp_logan_TV'
+
+--Image dimensions--
+256  256
+
+--Selected image--
+:,:,2
+
+--Image stats--
+dim  = 256  256
+min  = 0
+mean = 0.01396
+max  = 1
+L2   = 27.79
+
+--Image windowing--
+center/width = [ 0.5 1 ]
+colormap     = Gray(256)
+
+--InfoText--
+
+--Export date--
+date : 27.4.2022
+time : 20:16:20
+
+--arrayShow version--
+0.35

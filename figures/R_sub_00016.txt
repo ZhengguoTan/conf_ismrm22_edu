@@ -1,0 +1,28 @@
+--Figure title--
+'R_sub'
+
+--Image dimensions--
+144  116
+
+--Selected image--
+:,:,16
+
+--Image stats--
+dim  = 144  116
+min  = 4.982e-05
+mean = 0.09779
+max  = 1.151
+L2   = 16.12
+
+--Image windowing--
+center/width = [ 0.57568 1.1513 ]
+colormap     = Gray(256)
+
+--InfoText--
+
+--Export date--
+date : 30.4.2022
+time : 11:59:59
+
+--arrayShow version--
+0.35

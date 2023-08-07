@@ -1,0 +1,28 @@
+--Figure title--
+'I'
+
+--Image dimensions--
+256  256
+
+--Selected image--
+:,:
+
+--Image stats--
+dim  = 256  256
+min  = -5.551e-17
+mean = 0.1233
+max  = 1
+L2   = 63.34
+
+--Image windowing--
+center/width = [ 0.5 1 ]
+colormap     = Gray(256)
+
+--InfoText--
+
+--Export date--
+date : 27.4.2022
+time : 20:16:2
+
+--arrayShow version--
+0.35
